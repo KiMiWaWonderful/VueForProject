@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "我的车辆",
+    "msg" : "添加车辆信息",
+    "img" : "../../../assets/img/profile/arrow_left.svg"
+  },
+  {
+    "name" : "我的反馈",
+    "msg" : "更多",
+    "img" : "../../../assets/img/profile/arrow_left.svg"
+  },
+  {
+    "name" : "评论",
+    "msg" : "更多",
+    "img" : "../../../assets/img/profile/arrow_left.svg"
+  },
+  {
+    "name" : "活动",
+    "msg" : "发现更多活动",
+    "img" : "../../../assets/img/profile/arrow_left.svg"
+  }
+]
